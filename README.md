@@ -3,7 +3,7 @@
 Унивесальная плата для разработки простых дешёвых встраиваемых устройств либо как вспомагательная плата в более сложной системе.
 Архитектура платы представлена ниже:
 
-![Пикча](https://github.com/TakitaNirasa/mcuDebugBoard/blob/main/docs/prj_architecture.jpg)
+![Пикча](https://github.com/TakitaNirasa/mcuDebugBoard/blob/main/docs/prj_architecture.png)
 
 ### Задачи поставленные перед платой:
   * Максимальная дешивизна и простота в покупке компонентов
