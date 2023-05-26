@@ -1,6 +1,6 @@
 (footprint "cat2" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 647104D8)
+  (tedit 647113EF)
   (attr smd)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "Eco2.User")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -14,7 +14,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 12340afa-9f8b-4067-b5bd-02d63014f06a)
   )
-  (fp_line (start 2.639063 -7.205965) (end 2.893344 -7.05158) (layer "F.SilkS") (width 0.02) (tstamp 9df27be6-49f8-4538-83b3-6c98474b9f9f))
+  (fp_line (start 2.639063 -7.205965) (end 2.893344 -7.05158) (layer "F.SilkS") (width 0.1) (tstamp 9df27be6-49f8-4538-83b3-6c98474b9f9f))
   (fp_poly (pts
       (xy 1.909167 -7.494438)
       (xy 1.967585 -7.493729)
@@ -1542,7 +1542,7 @@
       (xy 1.806319 -7.493156)
       (xy 1.836479 -7.494255)
       (xy 1.879448 -7.494491)
-    ) (layer "F.SilkS") (width 0) (fill solid) (tstamp 65d6a9f5-7935-45c9-b458-6218e6b6faa3))
+    ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 65d6a9f5-7935-45c9-b458-6218e6b6faa3))
   (fp_poly (pts
       (xy -2.061942 -4.331816)
       (xy -2.029542 -4.330413)
