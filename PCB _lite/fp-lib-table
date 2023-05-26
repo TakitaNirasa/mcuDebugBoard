@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "mcuDebugBoard")(type "KiCad")(uri "${KIPRJMOD}/mcuDebugBoard.pretty")(options "")(descr ""))
+  (lib (name "cat")(type "KiCad")(uri "${KIPRJMOD}/cat.pretty")(options "")(descr ""))
 )
