@@ -2906,10 +2906,10 @@
       (net 9 "OUT3") (pinfunction "Pin_4") (pintype "passive") (tstamp 66aac9f8-bcdf-4a01-9773-471cf8ce48b3))
     (pad "5" thru_hole circle (at 20 0 180) (size 2.8 2.8) (drill 1.4) (layers *.Cu *.Mask)
       (net 8 "OUT4") (pinfunction "Pin_5") (pintype "passive") (tstamp cef07c48-4105-44b0-b1b0-364d505d9923))
-    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type011_RT05505HBWC_1x05_P5.00mm_Horizontal.wrl"
-      (offset (xyz 0 0 0))
+    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-5_1x05_P5.00mm_Horizontal.wrl"
+      (offset (xyz 20 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 180))
     )
   )
 
@@ -3529,10 +3529,10 @@
       (net 50 "VCC") (pinfunction "Pin_1") (pintype "passive") (tstamp a9bc18bf-84df-4ca5-98c0-65c9451cab21))
     (pad "2" thru_hole circle (at 5 0 270) (size 2.8 2.8) (drill 1.4) (layers *.Cu *.Mask)
       (net 1 "GND") (pinfunction "Pin_2") (pintype "passive") (tstamp 21487750-31e2-4e98-83e7-618f85b87a94))
-    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type011_RT05502HBWC_1x02_P5.00mm_Horizontal.wrl"
-      (offset (xyz 0 0 0))
+    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal.step"
+      (offset (xyz 5 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 180))
     )
   )
 
